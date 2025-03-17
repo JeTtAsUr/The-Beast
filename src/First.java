@@ -1,4 +1,4 @@
 public class First {
     String a = "Hello";
-    int b = 20;
+    int age = 20;
 }
