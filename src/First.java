@@ -4,6 +4,7 @@ public class First {
     int height = 100;
     int weight = 200;
     String color = "red";
+    int c = 50;
 
     public static void main(String[] args) {
         System.out.println("Hello");
